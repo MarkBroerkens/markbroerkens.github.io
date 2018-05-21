@@ -10,7 +10,7 @@
 * [Traffic Sign Classifier](https://markbroerkens.github.io/CarND-Traffic-Sign-Classifier-Project)
 * [Behavioral Cloning](https://markbroerkens.github.io/CarND-Behavioral-Cloning-P3)
 * [Advanced Lane Lines Detection](https://markbroerkens.github.io/CarND-Advanced-Lane-Lines)
-* [Vehicle Detection](https://markbroerkens.github.io/MarkBroerkens/CarND-Vehicle-Detection)
+* [Vehicle Detection](https://markbroerkens.github.io/CarND-Vehicle-Detection/)
 
 ### References
 #### Python
