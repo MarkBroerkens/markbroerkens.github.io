@@ -10,3 +10,12 @@
 * [Traffic Sign Classifier](https://markbroerkens.github.io/CarND-Traffic-Sign-Classifier-Project)
 * [Behavioral Cloning](https://markbroerkens.github.io/CarND-Behavioral-Cloning-P3)
 * [Advanced Lane Lines Detection](https://markbroerkens.github.io/CarND-Advanced-Lane-Lines)
+* [Vehicle Detection](https://markbroerkens.github.io/MarkBroerkens/CarND-Vehicle-Detection)
+
+### References
+#### Python
+* [Google Python Styleguide](https://google.github.io/styleguide/pyguide.html)
+* [Google Python Class](https://developers.google.com/edu/python/)
+
+#### C++
+
