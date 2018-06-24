@@ -11,6 +11,7 @@
 * [Behavioral Cloning](https://markbroerkens.github.io/CarND-Behavioral-Cloning-P3)
 * [Advanced Lane Lines Detection](https://markbroerkens.github.io/CarND-Advanced-Lane-Lines)
 * [Vehicle Detection](https://markbroerkens.github.io/CarND-Vehicle-Detection/)
+* [Extended Kalman Filter](https://markbroerkens.github.io/CarND-Extended-Kalman-Filter-Project/) 
 
 ### References
 #### Python
