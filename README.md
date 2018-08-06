@@ -13,6 +13,7 @@
 * [Vehicle Detection](https://markbroerkens.github.io/CarND-Vehicle-Detection/)
 * [Extended Kalman Filter](https://markbroerkens.github.io/CarND-Extended-Kalman-Filter-Project/) 
 * [Unscented Kalman Filter](https://markbroerkens.github.io/CarND-Unscented-Kalman-Filter-Project/)
+* [Kidnapped Vehicle Project](https://markbroerkens.github.io/CarND-Kidnapped-Vehicle-Project/)
 
 ### References
 #### Python
