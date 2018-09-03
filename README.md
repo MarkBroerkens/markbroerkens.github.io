@@ -14,7 +14,7 @@
 * [Extended Kalman Filter](https://markbroerkens.github.io/CarND-Extended-Kalman-Filter-Project/) 
 * [Unscented Kalman Filter](https://markbroerkens.github.io/CarND-Unscented-Kalman-Filter-Project/)
 * [Kidnapped Vehicle Project](https://markbroerkens.github.io/CarND-Kidnapped-Vehicle-Project/)
-* [PID Controler Project](https://markbroerkens.github.io/CarND-PID-Control-Project/)
+* [PID Control Project](https://markbroerkens.github.io/CarND-PID-Control-Project/)
 * [Model Predictive Control Project](https://markbroerkens.github.io/CarND-MPC-Project/)
 
 ### References
