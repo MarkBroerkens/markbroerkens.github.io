@@ -16,6 +16,7 @@
 * [Kidnapped Vehicle Project](https://markbroerkens.github.io/CarND-Kidnapped-Vehicle-Project/)
 * [PID Control Project](https://markbroerkens.github.io/CarND-PID-Control-Project/)
 * [Model Predictive Control Project](https://markbroerkens.github.io/CarND-MPC-Project/)
+* [Path Planning Project](https://markbroerkens.github.io/CarND-Path-Planning-Project/)
 
 ### References
 #### Python
