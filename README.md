@@ -17,6 +17,7 @@
 * [PID Control Project](https://markbroerkens.github.io/CarND-PID-Control-Project/)
 * [Model Predictive Control Project](https://markbroerkens.github.io/CarND-MPC-Project/)
 * [Path Planning Project](https://markbroerkens.github.io/CarND-Path-Planning-Project/)
+* [Semantic Segmentation](https://markbroerkens.github.io/CarND-Semantic-Segmentation/)
 
 ### References
 #### Python
