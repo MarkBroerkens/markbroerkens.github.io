@@ -19,6 +19,9 @@
 * [Path Planning Project](https://markbroerkens.github.io/CarND-Path-Planning-Project/)
 * [Semantic Segmentation](https://markbroerkens.github.io/CarND-Semantic-Segmentation/)
 
+#### My robots
+* [CarAI-mk-2](https://markbroerkens.github.io/carai-mk-2/) 1/10 autonomous race car
+
 ### References
 #### Python
 * [Google Python Styleguide](https://google.github.io/styleguide/pyguide.html)
