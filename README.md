@@ -13,11 +13,12 @@
 * [Vehicle Detection](https://markbroerkens.github.io/CarND-Vehicle-Detection/)
 * [Extended Kalman Filter](https://markbroerkens.github.io/CarND-Extended-Kalman-Filter-Project/) 
 * [Unscented Kalman Filter](https://markbroerkens.github.io/CarND-Unscented-Kalman-Filter-Project/)
-* [Kidnapped Vehicle Project](https://markbroerkens.github.io/CarND-Kidnapped-Vehicle-Project/)
-* [PID Control Project](https://markbroerkens.github.io/CarND-PID-Control-Project/)
-* [Model Predictive Control Project](https://markbroerkens.github.io/CarND-MPC-Project/)
-* [Path Planning Project](https://markbroerkens.github.io/CarND-Path-Planning-Project/)
+* [Kidnapped Vehicle](https://markbroerkens.github.io/CarND-Kidnapped-Vehicle-Project/)
+* [PID Control](https://markbroerkens.github.io/CarND-PID-Control-Project/)
+* [Model Predictive Control](https://markbroerkens.github.io/CarND-MPC-Project/)
+* [Path Planning](https://markbroerkens.github.io/CarND-Path-Planning-Project/)
 * [Semantic Segmentation](https://markbroerkens.github.io/CarND-Semantic-Segmentation/)
+* [Capstone - a real self-driving car](https://markbroerkens.github.io/CarND-Capstone) (work in progress)
 
 #### My robots
 * [CarAI-mk-2](https://markbroerkens.github.io/carai-mk-2/) 1/10 autonomous race car
