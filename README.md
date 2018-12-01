@@ -18,7 +18,7 @@
 * [Model Predictive Control](https://markbroerkens.github.io/CarND-MPC-Project/)
 * [Path Planning](https://markbroerkens.github.io/CarND-Path-Planning-Project/)
 * [Semantic Segmentation](https://markbroerkens.github.io/CarND-Semantic-Segmentation/)
-* [Capstone - a real self-driving car](https://markbroerkens.github.io/CarND-Capstone) (work in progress)
+* [Capstone - a real self-driving car](https://github.com/MarkBroerkens/CarND-Capstone/blob/master/README.md) (work in progress)
 
 #### My robots
 * [CarAI-mk-2](https://markbroerkens.github.io/carai-mk-2/) 1/10 autonomous race car
