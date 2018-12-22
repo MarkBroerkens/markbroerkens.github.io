@@ -1,6 +1,9 @@
 # markbroerkens.github.io
 
 ## Autonomous Driving
+### My robots
+* [RACECAR/X](https://markbroerkens.github.io/RACECARX_Hardware/) 1/10 autonomous race car, controlled by Nvidia Xavier
+
 ### Udacity Self-Driving Car Nanodegree
 #### About the Nanodegree
 * [How Self-Driving Cars Work](https://medium.com/udacity/how-self-driving-cars-work-f77c49dca47e)
@@ -18,10 +21,9 @@
 * [Model Predictive Control](https://markbroerkens.github.io/CarND-MPC-Project/)
 * [Path Planning](https://markbroerkens.github.io/CarND-Path-Planning-Project/)
 * [Semantic Segmentation](https://markbroerkens.github.io/CarND-Semantic-Segmentation/)
-* [Capstone - a real self-driving car](https://github.com/MarkBroerkens/CarND-Capstone/blob/master/README.md) (work in progress)
+* [Capstone - a real self-driving car](https://github.com/MarkBroerkens/CarND-Capstone/blob/master/README.md)
 
-#### My robots
-* [CarAI-mk-2](https://markbroerkens.github.io/carai-mk-2/) 1/10 autonomous race car
+
 
 ### References
 #### Python
