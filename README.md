@@ -2,7 +2,7 @@
 
 ## Autonomous Driving
 ### My robots
-* [RACECAR/X](https://markbroerkens.github.io/RACECARX_Hardware/) 1/10 autonomous race car, controlled by Nvidia Xavier
+* [RACECAR/X](https://markbroerkens.github.io/RACECARX/) 1/10 autonomous race car, controlled by Nvidia Xavier
 
 ### Udacity Self-Driving Car Nanodegree
 #### About the Nanodegree
