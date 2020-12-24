@@ -1,35 +1,39 @@
 <div class="contact">
   <ul class="contact__list list-reset">
     {% if site.data.settings.twitter %}
-      <li><a href="{{ site.data.settings.twitter }}"><i class="ion ion-logo-twitter"></i></a></li>
+      <li><a href="{{ site.data.settings.twitter }}"><ion-icon name="logo-twitter"></ion-icon></a></li>
     {% else %} {% endif %}
 
     {% if site.data.settings.linkedin %}
-      <li><a href="{{ site.data.settings.linkedin }}"><i class="ion ion-logo-linkedin"></i></a></li>
+      <li><a href="{{ site.data.settings.linkedin }}"><ion-icon name="logo-linkedin"></ion-icon></a></li>
     {% else %} {% endif %}
 
     {% if site.data.settings.xing %}
-      <li><a href="{{ site.data.settings.xing }}"><i class="ion ion-logo-xing"></i></a></li>
+      <li><a href="{{ site.data.settings.xing }}"><ion-icon name="logo-xing"></ion-icon></a></li>
     {% else %} {% endif %}
 
     {% if site.data.settings.github %}
-    <li><a href="{{ site.data.settings.github }}"><i class="ion ion-logo-github"></i></a></li>
+    <li><a href="{{ site.data.settings.github }}"><ion-icon name="logo-github"></ion-icon></a></li>
     {% else %} {% endif %}
 
     {% if site.data.settings.facebook %}
-      <li><a href="{{ site.data.settings.facebook }}"><i class="ion ion-logo-facebook"></i></a></li>
+      <li><a href="{{ site.data.settings.facebook }}"><ion-icon name="logo-facebook"></ion-icon></a></li>
+    {% else %} {% endif %}
+
+    {% if site.data.settings.medium %}
+      <li><a href="{{ site.data.settings.medium }}"><ion-icon name="logo-medium"></ion-icon></a></li>
     {% else %} {% endif %}
   
     {% if site.data.settings.dribbble %}
-      <li><a href="{{ site.data.settings.dribbble }}"><i class="ion ion-logo-dribbble"></i></a></li>
+      <li><a href="{{ site.data.settings.dribbble }}"><ion-icon name="logo-dribble"></ion-icon></a></li>
     {% else %} {% endif %}
   
     {% if site.data.settings.instagram %}
-      <li><a href="{{ site.data.settings.instagram }}"><i class="ion ion-logo-instagram"></i></a></li>
+      <li><a href="{{ site.data.settings.instagram }}"><ion-icon name="logo-instagram"></ion-icon></a></li>
     {% else %} {% endif %}
   
     {% if site.data.settings.pinterest %}
-      <li><a href="{{ site.data.settings.pinterest }}"><i class="ion ion-logo-pinterest"></i></a></li>
+      <li><a href="{{ site.data.settings.pinterest }}"><ion-icon name="logo-pinterest"></ion-icon></i></a></li>
     {% else %} {% endif %}
   </ul>
 </div>
