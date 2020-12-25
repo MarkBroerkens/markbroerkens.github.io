@@ -3,7 +3,9 @@
 This is the source of my Jekyll based website that is hosted on GitHub at broerkens.de
 
 ### How to Contribute
-Github automatically updates the websites on each commit.
+Github automatically updates the websites on each commit using a custom workflow. Thus there a no restrictions with respect to Jekyll plugins.
+
+Note: please use lowercase tag names in the posts. Otherwise the links to the tag pages will be broken.
 
 You can locally check if the page gets rendered correctly using:
 ```

@@ -3,7 +3,7 @@ layout: post
 title:  Udacity Self Driving Car Nananodegree
 date:   2018-12-24 15:46 +0100
 image:  03.jpg
-tags:   Autonomous
+tags:   autonomous
 ---
 The Udacity Self Driving Car Engineer Nanodegree is great fun. After having spent many weekends and evenings on the interesting projects, I will continue this route in 2019: Each Monday will be [Self-Driving-Car](https://medium.com/udacity/how-self-driving-cars-work-f77c49dca47e) Monday.
 

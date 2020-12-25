@@ -3,7 +3,7 @@ layout: post
 title:  RACECAR/X the 1:10 self driving car
 date:   2020-12-22 15:24 +0100
 image:  02.jpg
-tags:   Autonomous
+tags:   autonomous
 ---
 RACECAR/X is a 1:10 scale self driving vehicle that I use to get in touch with the latest technology. It has sensors such as LIDAR, Depth Camera and IMU and a powerful compute engine by NVIDIA.
 
