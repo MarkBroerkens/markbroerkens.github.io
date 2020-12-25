@@ -1,4 +1,6 @@
-This is the source of my Jekyll based website that is hosted on GitHub at markbroerkens.github.io
+![Deploy Website](https://github.com/MarkBroerkens/markbroerkens.github.io/workflows/Deploy%20Website/badge.svg)
+
+This is the source of my Jekyll based website that is hosted on GitHub at broerkens.de
 
 ### How to Contribute
 Github automatically updates the websites on each commit.
