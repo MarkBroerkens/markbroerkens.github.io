@@ -1,8 +1,9 @@
 #-------------------------------
 # General Site Settings
-title: Mark Brörkens - My github projects
+title: Mark Brörkens - Projects
 logo: logo.svg # You can add own logo.
-description: Mark Brörkens - My github projects
+description: Mark Brörkens - Projects
+image: 01.jpg
 
 
 #-------------------------------
